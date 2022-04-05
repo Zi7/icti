@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>QR Code Scan</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="UI/for_flow/Home_Mission_News_Notification/no_applewallet2_newlayout" transform="translate(-47.000000, -239.000000)" fill="#4D4D4D">
+            <g id="Group-10" transform="translate(29.000000, 227.000000)">
+                <g id="Group-8" transform="translate(6.000000, 0.000000)">
+                    <g id="QR-Code-Scan" transform="translate(12.000000, 12.000000)">
+                        <polygon id="Path" points="2.6 2.6 9.1 2.6 9.1 0 0 0 0 9.1 2.6 9.1"></polygon>
+                        <polygon id="Path" points="2.6 16.9 0 16.9 0 26 9.1 26 9.1 23.4 2.6 23.4"></polygon>
+                        <polygon id="Path" points="16.9 0 16.9 2.6 23.4 2.6 23.4 9.1 26 9.1 26 0"></polygon>
+                        <polygon id="Path" points="23.4 23.4 16.9 23.4 16.9 26 26 26 26 16.9 23.4 16.9"></polygon>
+                        <path d="M5.2,11.7 L11.7,11.7 L11.7,5.2 L5.2,5.2 L5.2,11.7 Z M7.8,7.8 L9.1,7.8 L9.1,9.1 L7.8,9.1 L7.8,7.8 Z" id="Shape" stroke="#FFFFFF"></path>
+                        <path d="M20.8,5.2 L14.3,5.2 L14.3,11.7 L20.8,11.7 L20.8,5.2 Z M18.2,9.1 L16.9,9.1 L16.9,7.8 L18.2,7.8 L18.2,9.1 Z" id="Shape" stroke="#FFFFFF"></path>
+                        <path d="M20.8,14.3 L14.3,14.3 L14.3,20.8 L20.8,20.8 L20.8,14.3 Z M18.2,18.2 L16.9,18.2 L16.9,16.9 L18.2,16.9 L18.2,18.2 Z" id="Shape" stroke="#FFFFFF"></path>
+                        <path d="M5.2,20.8 L11.7,20.8 L11.7,14.3 L5.2,14.3 L5.2,20.8 Z M7.8,16.9 L9.1,16.9 L9.1,18.2 L7.8,18.2 L7.8,16.9 Z" id="Shape" stroke="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
