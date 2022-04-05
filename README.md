@@ -9,14 +9,10 @@ lib/
 |- api - Global Restful api requests, including interceptors, etc.
    |- interceptors - Interceptors, including auth, request, and response interceptors.
    |- api.dart - Restful api export file.
-|- lang - Internationalization, including translation files, translation service files, etc.
-   |- lang.dart - Language export file.
 |- models - Various structured entity classes, divided into request and response entities.
    |- models.dart - Entity class export file.
 |- modules - Business module folder.
-   |- auth - Login & Registration Module.
    |- home - Home module.
-   |- splash - Splash module.
    |- modules.dart - Module export file.
 |- routes - Routing module.
    |- app_pages.dart - Routing page configuration.
